@@ -1,0 +1,163 @@
+#field {
+    display: flex;
+    justify-content: center;
+}
+
+#field {
+    display: flex;
+justify-content: flex-end
+}
+
+#field {
+    display: flex;
+justify-content: space-between
+}
+
+
+#field {
+    display: flex;
+justify-content: space-around
+}
+
+#field {
+    display: flex;
+justify-content: space-evenly
+}
+
+#field {
+    display: flex;
+align-items: center
+}
+
+#field {
+    display: flex;
+align-items: flex-end
+}
+
+#field {
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#field {
+    display: flex;
+justify-content: space-between;
+align-items: flex-end
+}
+
+#field {
+    display: flex;
+flex-direction: column
+}
+
+#field {
+    display: flex;
+flex-direction: row-reverse
+}
+
+#field {
+    display: flex;
+flex-direction: column;
+justify-content: flex-end
+
+}
+
+#field {
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row-reverse
+}
+
+#field {
+    display: flex;
+}
+
+#arthur {
+order: 2
+}
+
+
+
+#field {
+    display: flex;
+}
+
+#marilyn {
+align-self: center
+}
+
+#field {
+    display: flex;
+}
+
+#haymitch {
+order: 1;
+align-self: flex-end
+}
+
+
+#field {
+    display: flex;
+align-items: center;
+flex-direction: column-reverse;
+justify-content: flex-end;
+}
+
+#field {
+    display: flex;
+    justify-content: center;
+}
+
+#arthur {
+order: 2;
+align-self: center
+}
+
+
+#field {
+    display: flex;
+flex-wrap: wrap
+}
+
+
+
+#field {
+    display: flex;
+    flex-wrap: wrap;
+align-content: center
+}
+
+#field {
+    display: flex;
+    flex-wrap: wrap;
+align-content: flex-end;
+justify-content: center
+}
+
+#field {
+    display: flex;
+flex-direction: column-reverse;
+justify-content: space-around;
+align-items: flex-end;
+}
+
+#field {
+    display: flex;
+flex-direction: column-reverse;
+flex-wrap: wrap-reverse;
+align-content: center;
+justify-content: center;
+}
+
+
+
+#field {
+    display: flex;
+}
+
+#arthur {
+align-self: center;
+order: 3;
+}
