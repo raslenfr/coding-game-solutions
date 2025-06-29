@@ -1,0 +1,120 @@
+#field {
+    display: flex;
+justify-content: center
+}
+
+
+
+#field {
+    display: flex;
+justify-content: flex-end;
+}
+
+#field {
+    display: flex;
+justify-content: space-between;
+}
+
+
+#field {
+    display: flex;
+justify-content: space-around
+}
+
+
+#field {
+    display: flex;
+justify-content: space-evenly;
+}
+
+
+#field {
+    display: flex;
+align-items: center;
+}
+
+
+
+
+#field {
+    display: flex;
+align-items: flex-end
+}
+
+#field {
+    display: flex;
+justify-content: center;
+align-items: center
+}
+
+
+
+#field {
+    display: flex;
+align-items: flex-end;
+justify-content: space-between;
+}
+
+
+
+#field {
+    display: flex;
+flex-direction: column;
+}
+
+
+#field {
+    display: flex;
+flex-direction: row-reverse;
+}
+
+
+#field {
+    display: flex;
+flex-direction: column;
+justify-content: flex-end;
+}
+
+
+#field {
+    display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row-reverse;
+}
+
+#field {
+    display: flex;
+}
+
+#arthur {
+order: 2
+}
+
+
+#field {
+    display: flex;
+}
+
+#marilyn {
+align-self: center;
+}
+
+
+#field {
+    display: flex;
+}
+
+#haymitch {
+order: -1;
+align-self: flex-end
+}
+
+
+
+#field {
+    display: flex;
+flex-direction: column-reverse;
+align-items: center;
+justify-content: start;
+}
